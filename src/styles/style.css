@@ -64,6 +64,10 @@ nav a {
   color: white;
 }
 
+.input {
+  max-width: 50vw;
+}
+
 .footer {
   display: flex;
   justify-content: center;
