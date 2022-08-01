@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zszz0079159x.github.io/Photo-Web/static/css/main.03c3bd78.css",
+    "main.js": "/zszz0079159x.github.io/Photo-Web/static/js/main.d82da0f0.js",
+    "index.html": "/zszz0079159x.github.io/Photo-Web/index.html",
+    "main.03c3bd78.css.map": "/zszz0079159x.github.io/Photo-Web/static/css/main.03c3bd78.css.map",
+    "main.d82da0f0.js.map": "/zszz0079159x.github.io/Photo-Web/static/js/main.d82da0f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c3bd78.css",
+    "static/js/main.d82da0f0.js"
+  ]
+}
