@@ -44,6 +44,7 @@ const Homepage = () => {
   };
 
   useEffect(() => {
+    console.log(initialUrl);
     search(initialUrl);
   }, []);
 
